@@ -1,4 +1,6 @@
 # networking-artifact
+## ⚠ Luci 應用程式已經包含本倉庫的文件，倉庫停止更新
+
 包含vnts easytier</br>
 本庫只是在編譯期間把luci需要的二進製打包進去，**免去上傳二進製文件的麻煩**
 
